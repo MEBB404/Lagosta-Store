@@ -9,3 +9,13 @@
     border: solid 10px rgba(0, 0, 0, 0.9);
     padding: 70px;
 }
+
+.Pratos img{
+    width: 180px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+.Pratos img:hover{
+    transform: scale(1.5);
+}
